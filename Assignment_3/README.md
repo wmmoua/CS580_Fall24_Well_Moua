@@ -3,4 +3,4 @@ and Assignment_3 python file and are put together in a folder or directory.
 Once both are downloaded, open up either a terminal or any applications to run the python file.
 Once run it will display a figure and plot the given data.
 
-Note: Look at figure or screenshot for reference.
+Note: Look at Figure 1 for reference.
